@@ -1,0 +1,78 @@
+
+ nav{
+    text-align: right;
+    font-family: sans-serif;
+    background-color: orangered;
+    padding: 15px;
+    margin: 15px;
+    width:50%;
+     }
+     nav a{
+         text-decoration: none;
+         padding: 10px 25px;
+         color: white;
+     }
+     nav a:hover{
+         background-color: gray;
+     }
+     #fst{
+         padding: 10px;
+     }
+     #snd{
+         padding: 10px;
+     }
+     img{
+         border-radius: 20px;
+         padding: 4px;
+         margin: 19px;
+     }
+   
+     #maintain{
+         
+         text-align: center;
+         background-color: lightblue;
+         height: 19%;
+         padding: 30px;
+         font-family: 'Courier New', Courier, monospace;
+     }
+     #maintain p{
+         font-size:20px;
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     }
+    
+     .brands h3{
+         text-align: center;
+         border-radius: 20px;
+         width: 19%;
+         background-color: greenyellow;
+         font-size: 20;
+     }
+     #fav {
+         background-color: purple;
+         width:19%;
+         text-align: center;
+         border-radius: 20px;
+     }
+     #ft{
+       
+         background-color: red;
+         width: 100%;
+         text-align: center;
+     }
+     .trend{
+    font-size: 20px;
+     }
+     .kid{
+        background-color:orangered;
+        
+         width:19%;
+         text-align: center;
+         border-radius: 20px;
+     }
+     .men{
+        background-color:maroon;
+        color: white;
+        width:19%;
+        text-align: center;
+        border-radius: 20px;
+     }
